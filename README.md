@@ -6,6 +6,7 @@ Le but de ce projet est d'implémenter une fonction `str_to_word_array` en langa
 ## Spécifications
 
 ### Prototype de la fonction
+Voici le prototype pour tester votre fonction à l'aide d'un fichier C.
 ```c
 char **str_to_word_array(char *str);
 ```
